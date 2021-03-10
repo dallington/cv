@@ -4,17 +4,21 @@
 
 Portfolio: [dallington.com.br](http://dallington.com.br "dallington.com.br")
 
-E-mail: dallington.augusto@gmail.com
+E-mail: contato@dallington.com.br
 
 ### Sobre mim
 
-Meu nome é Dallington Augusto, 24 anos,  nascido em Catalão (GO), descobri o mundo dos códigos na adolescência e mantenho esta mesma paixão desde o primeiro dia dessa descoberta. atualmente trabalho como Desenvolvedor Web com foco em Front-End como Freelancer, sou responsável pela aplicação de boas pela aplicação de boas praticas de UI e UX em interfaces ...
+Meu nome é Dallington Augusto, 27 anos,  nascido em Catalão (GO), descobri o mundo dos códigos na adolescência e mantenho esta mesma paixão desde o primeiro dia dessa descoberta. atualmente trabalho como Desenvolvedor Web com foco em Front-End como Freelancer, sou responsável pela aplicação de boas pela aplicação de boas praticas de UI e UX em interfaces ...
 
 Acredito que o código deve ser limpo, elegante, otimizado e legível para outros desenvolvedores. Como designer, gosto de informações bem estruturadas, layouts limpos e modernos, utilizo em meus projetos as mais novas ferramentas e frameworks do mercado, sempre buscando aplicar os padrões da W3C para uma Internet mais bonita e inclusiva.
 
 Apaixonado de software livre e projetos Open-Source, onde tenho o Wordpress como minha plataforma de desenvolvimento preferida. 
 
+### Stack Atual ♥
 
+* VueJS (Front-End)
+* Strapi CMS (Back-end)
+* Tailwind (CSS Lib)
 ### Skills
 
    * HTML/CSS e JavaScript (jQuery)
@@ -24,11 +28,12 @@ Apaixonado de software livre e projetos Open-Source, onde tenho o Wordpress como
    * Wordpress Developer
    * Bootstrap
    * SEO
-   * Conhecimento básico de PHP, MySQL
+   * Conhecimento intermediário de PHP, MySQL
+   * Ui Designer
 
 ### Ferramentas Front End
 
-   * Grunt, Bower, Gulp
+   * Gulp, Webpack
    * Git - Github e Bitbucket
    * Metodologias Àgeis Scrum e Kanban, Trello
 
@@ -38,6 +43,8 @@ Apaixonado de software livre e projetos Open-Source, onde tenho o Wordpress como
 
 * **MundoW3** - Web Designer, Front-end Developer, Wordpress Developer, Supervisor de Equipe (2015 / 2017)
 * **MundoW3** - Web Designer, Front-end Developer, Wordpress Developer (2012 / 2015)
+* **HPE Mitsubishi**: Back-end Developer Júnior - Responsável pelo desenvolvimento e manuteção da intranet empresarial. (2019 / 2020)
+* **EspecializaTI**: Front-end Developer (2021)
 
 
 
